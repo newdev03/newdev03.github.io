@@ -308,3 +308,8 @@ footer p {
     font-size: 0.9rem;
     opacity: 0.8;
 }
+main {
+    background-image: url(/Portifolio/img/imagem.jfif);
+    background-size: cover; 
+
+}
